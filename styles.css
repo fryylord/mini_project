@@ -39,3 +39,23 @@ img {
     display: block;
     margin: 40px auto 0px;
 }
+
+header {
+    border-bottom: 10px solid white;
+}
+
+.imageBox {
+    position: absolute;
+    float: left;
+  }
+  
+  .imageBox .hoverImg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: none;
+  }
+  
+  .imageBox:hover .hoverImg {
+    display: block;
+  }
