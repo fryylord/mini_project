@@ -22,8 +22,8 @@ body {
     position: relative;
     font-family: "Goudy Bookletter 1911", sans-serif;
     font-size: 20px;
-    background-color: #FDF8F5;
-    color: #4F4846;
+    background-color: #0e0242;
+    color: #f00909;
   }
 
 li {
@@ -37,5 +37,5 @@ li {
 
 img {
     display: block;
-    margin: 50px auto;
+    margin: 40px auto 0px;
 }
